@@ -3552,7 +3552,7 @@ textarea.input-lg {
 
 .help-block {
     display: block;
-    margin-top: 5px;
+    margin: 10px;
     margin-bottom: 10px;
     color: #737373
 }
@@ -4228,7 +4228,7 @@ fieldset[disabled] .btn-link:hover {
 }
 
 .btn-block+.btn-block {
-    margin-top: 5px
+    margin: 10px
 }
 
 input[type=button].btn-block,
@@ -6083,7 +6083,7 @@ a.thumbnail:hover {
 }
 
 .alert>p+p {
-    margin-top: 5px
+    margin: 10px
 }
 
 .alert-dismissable,
@@ -6821,7 +6821,7 @@ button.list-group-item-danger.active:hover {
 }
 
 .panel-group .panel+.panel {
-    margin-top: 5px
+    margin: 10px
 }
 
 .panel-group .panel-heading {
